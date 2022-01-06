@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Hi there, my name is Naufal Taufiq Ridwan 👋
 ### I'm a Informatic Engineering Student
 
-- 🌱 I’m currently learning Competitive Programming
+- 🌱 I’m currently learning GO
 
 
 <details>
