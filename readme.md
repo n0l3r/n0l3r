@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### I'm a Informatic Engineering Student
 
 - 🌱 I’m currently learning Competitive Programming
-- ⚡ Fun fact: I like doing other people's work, because it's money 😄
 
 
 <details>
