@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/n0l3r/count.svg" />
 </p>
 
-<img align="right" alt="n0l3r's github stats" src="https://github-readme-stats.vercel.app/api?username=n0l3r&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&hide=stars,prs,issues,contribs&theme=radical"/>
+<img align="right" alt="n0l3r's github stats" src="https://github-readme-stats.vercel.app/api?username=n0l3r&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0l3r&layout=compact&hide_border=true&theme=radical"/>
 
 ### Hi there, my name is Naufal Taufiq Ridwan 👋
