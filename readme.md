@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### Hi there, my name is Naufal Taufiq Ridwan 👋
 ### I'm a Informatic Engineering Student
 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Node JS, GO, react-native, php, c++ and python
 
 
-<details>
+
  <b>Connect with me</b>
 <a href="https://www.instagram.com/yaelahfal_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/yaelahfal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-</details>
+
