@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary><b>Connect with me</b></summary>
-[<img src="https://img.shields.io/badge/Email-itsnfl30@gmail.com">](mailto:itsnfl30@gmail.com)
+ <b>Connect with me</b>
 <a href="https://www.instagram.com/yaelahfal_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/yaelahfal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </details>
