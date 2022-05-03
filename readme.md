@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Connect with me</b></summary>
-  <p align="center">
-    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
-    <a href="https://instagram.com/yaelahfal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yaelahfal_" height="30" width="40" /></a>
-  </p>
+[<img src="https://img.shields.io/badge/Email-itsnfl30@gmail.com">](mailto:itsnfl30@gmail.com)
+<a href="https://www.instagram.com/yaelahfal_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/yaelahfal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </details>
